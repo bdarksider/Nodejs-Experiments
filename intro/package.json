@@ -1,0 +1,26 @@
+{
+  "name": "learn_it",
+  "version": "0.1.0",
+  "description": "web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdarksider/Nodejs-Experiments.git"
+  },
+  "author": "Bejoy George Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdarksider/Nodejs-Experiments/issues"
+  },
+  "homepage": "https://github.com/bdarksider/Nodejs-Experiments#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
